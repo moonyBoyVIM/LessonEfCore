@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\LessonsEfCore.Api.props" />
+</Project>

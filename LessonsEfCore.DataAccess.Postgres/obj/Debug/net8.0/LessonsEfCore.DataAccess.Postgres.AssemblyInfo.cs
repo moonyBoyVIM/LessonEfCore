@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LessonsEfCore.DataAccess.Postgres")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4752a7b921b5a9ad722575f0df2b98428d3e3f5f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+080b686a3520a0b3e395bb69ee7f210d975834a4")]
 [assembly: System.Reflection.AssemblyProductAttribute("LessonsEfCore.DataAccess.Postgres")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LessonsEfCore.DataAccess.Postgres")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
